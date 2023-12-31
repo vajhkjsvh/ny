@@ -121,4 +121,21 @@ p{
     width: 10%;
     float:right
 }
+@media (max-width:1366px){
+    html{
+        font-size: 70%;
+    }
+}
+
+@media (max-width:1023px){
+    html{
+        font-size: 60%;
+    }
+}
+
+@media (max-width:767px){
+    html{
+        font-size: 50%;
+    }
+}
 
